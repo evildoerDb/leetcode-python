@@ -1,2 +1,3 @@
-# leetcode-python
-# leetcode题目  python实现 待完善
+## leetcode题目  python实现 完善中
+    problem 771
+    problem 709
